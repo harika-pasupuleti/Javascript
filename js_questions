@@ -1,1 +1,23 @@
+What is an array?
+What is array.length?
+How to empty an array?
+
+
+git clone https://github.com/harika-pasupuleti/Javascript.git
+//download javascript to ur desktop
+javascript -> js_questions
+
+cd javascript
+git init
+//local git replica
+//modify js_questions file from ur local
+
+//to push to remote - 3 steps
+git status
+//untracked files in red
+
+git add js_questions
+git commit -m "commit msg" 
+
+
 
